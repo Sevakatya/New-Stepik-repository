@@ -1,2 +1,2 @@
 # New-Stepik-repository
-Homework and ...
+Homework and something else 
